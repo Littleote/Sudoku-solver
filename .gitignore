@@ -1,3 +1,14 @@
+# Dataset images
+datasets/digits28/
+datasets/digits64/
+datasets/MNIST/
+
+# Non essential files
+ignore/
+
+# Prebuilt models
+models/*.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1682072278 source:d:\users\david\documents\uni\vpc\projecte\solver\sudoku.cpp
+	"Sudoku.hpp"
+	<iostream>
+
+1682072402 d:\users\david\documents\uni\vpc\projecte\solver\sudoku.hpp
+	<cstdint>
+	<vector>
+	<assert.h>
+
+1682072357 source:d:\users\david\documents\uni\vpc\projecte\solver\main.cpp
+	"main.h"
+	"exported.h"
+	"Sudoku.hpp"
+	<algorithm>
+
+1682072447 d:\users\david\documents\uni\vpc\projecte\solver\main.h
+	<windows.h>
+
+1682071458 source:d:\users\david\documents\uni\vpc\projecte\solver\test.cpp
+	<iostream>
+	"exported.h"
+
+1682072329 source:d:\users\david\documents\uni\vpc\projecte\solver\exported.cpp
+	"exported.h"
+
+1682072329 d:\users\david\documents\uni\vpc\projecte\solver\exported.h
+	"Sudoku.hpp"
+
